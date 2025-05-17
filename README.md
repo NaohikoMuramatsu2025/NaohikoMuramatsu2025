@@ -40,7 +40,7 @@
 ## 🔗 外部リンク
 
 - 🌐 Webサイト: [https://gkukan.jp](https://gkukan.jp)
-- 🗣️ LinkedIn: [linkedin.com/in/naohiko-muramatsu-2025](https://www.linkedin.com/in/naohiko-muramatsu-2025/)
+- 🗣️ LinkedIn: [linkedin.com/in/naohiko-muramatsu-2025](https://www.linkedin.com/feed/)
 - 🗃️ GitHub: [github.com/NaohikoMuramatsu2025](https://github.com/NaohikoMuramatsu2025)
 
 ---
