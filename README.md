@@ -1,18 +1,49 @@
-# 👋 はじめまして、Naohiko Muramatsuです
+# 👋 はじめまして、Naohiko Muramatsu です
 
-- 🗺️ 空間情報・GISの専門家
-- 🧠 AIとGISを組み合わせたシステム開発に注力中
-- 📍 Web地図公開：https://gkukan.jp
-- 🛠️ 好きな技術：Python, PostGIS, PMTiles, MapLibre
-Hi, I'm @NaohikoMuramatsu2025  
-- 🔍 I'm interested in GIS, spatial databases, and map rendering.  
-- 🌱 I'm currently learning advanced geospatial data automation.  
-- 🤝 I'm looking to collaborate on open geospatial tools.  
-- 📫 How to reach me: [gkukan.jp](https://gkukan.jp)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’ve been working in GIS since the 1980s!
+## 🧭 自己紹介
 
-<!---
-NaohikoMuramatsu2025/NaohikoMuramatsu2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🗺️ 空間情報・GISの専門家  
+- 🧠 AIとGISを組み合わせたシステム開発に注力中  
+- 🌐 Web地図公開：[https://gkukan.jp](https://gkukan.jp)  
+- 🛠️ 好きな技術：Python、PostGIS、PMTiles、MapLibre  
+- 👋 こんにちは、[@NaohikoMuramatsu2025](https://github.com/NaohikoMuramatsu2025) です。  
+- 🧭 GIS、空間データベース、マップレンダリングに興味があります。  
+- 🚀 現在、高度な地理空間データ自動化を学習しています。  
+- 🤝 オープンな地理空間ツールでコラボレーションしたいと考えています。  
+- 📬 連絡先：[gkukan.jp](https://gkukan.jp)  
+- 👤 代名詞: he/him  
+- ⚡ おもしろい事実: 私は 1980 年代から GIS に携わっています。
+
+---
+
+## 🧰 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-FFAA00?style=flat)
+![MapLibre](https://img.shields.io/badge/MapLibre-000000?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-blue?style=flat)
+![PMTiles](https://img.shields.io/badge/PMTiles-blueviolet?style=flat)
+
+---
+
+## 📦 主なリポジトリ
+
+| リポジトリ名 | 説明 |
+|-------------|------|
+| [tile-export-gdal](https://github.com/NaohikoMuramatsu2025/tile-export-gdal) | GDALを使って地理空間データから画像タイルを生成するスクリプト群 |
+| [naohikomuramatsu2025.github.io](https://github.com/NaohikoMuramatsu2025/naohikomuramatsu2025.github.io) | GitHub Pages用のHTMLリポジトリ（公開サイト） |
+
+---
+
+## 🔗 外部リンク
+
+- 🌐 Webサイト: [https://gkukan.jp](https://gkukan.jp)
+- 🗣️ LinkedIn: [linkedin.com/in/naohiko-muramatsu-2025](https://www.linkedin.com/in/naohiko-muramatsu-2025/)
+- 🗃️ GitHub: [github.com/NaohikoMuramatsu2025](https://github.com/NaohikoMuramatsu2025)
+
+---
+
+<!-- GitHubプロフィール特化用メモ -->
+✨ `NaohikoMuramatsu2025/NaohikoMuramatsu2025` は特別なリポジトリです。この `README.md` は GitHub プロフィールのトップに表示されます。
