@@ -25,6 +25,11 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![GeoJSON](https://img.shields.io/badge/GeoJSON-blue?style=flat)
 ![PMTiles](https://img.shields.io/badge/PMTiles-blueviolet?style=flat)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat)
+
 
 ---
 
