@@ -43,12 +43,35 @@
 
 ---
 
-## 📦 主なリポジトリ
+## 📦 主ナリポジトリ
+
+### 🗺️ GIS・空間情報処理系
 
 | リポジトリ名 | 説明 |
 |-------------|------|
-| [tile-export-gdal](https://github.com/NaohikoMuramatsu2025/tile-export-gdal) | GDALを使って地理空間データから画像タイルを生成するスクリプト群 |
-| [naohikomuramatsu2025.github.io](https://github.com/NaohikoMuramatsu2025/naohikomuramatsu2025.github.io) | GitHub Pages用のHTMLリポジトリ（公開サイト） |
+| [tile-export-gdal](https://github.com/NaohikoMuramatsu2025/tile-export-gdal) | GDALを使って空間データからタイル画像を生成するスクリプト。 |
+| [maplibre-measure-tool](https://github.com/NaohikoMuramatsu2025/maplibre-measure-tool) | MapLibre GL JS用の距離・面積計測ツール。 |
+| [naohikomuramatsu2025.github.io](https://naohikomuramatsu2025.github.io) | 公開用WebGISビューア（GitHub Pages）。 |
+
+### 🧠 AI・地理空間分析
+
+| リポジトリ名 | 説明 |
+|-------------|------|
+| [nara-land-classifier](https://github.com/NaohikoMuramatsu2025/nara-land-classifier) | 奈良県データを使った土地分類AIモデル。 |
+| [auto-geomoku-classifier](https://github.com/NaohikoMuramatsu2025/auto-geomoku-classifier) | 自動分類による空間格子処理AIツール。 |
+
+### 🏷️ 住所処理・ジオコーディング
+
+| リポジトリ名 | 説明 |
+|-------------|------|
+| [csv-address-geocoder](https://github.com/NaohikoMuramatsu2025/csv-address-geocoder) | CSV形式の住所データを緯度経度に変換。 |
+
+### 👤 プロフィール
+
+| リポジトリ名 | 説明 |
+|-------------|------|
+| [NaohikoMuramatsu2025](https://github.com/NaohikoMuramatsu2025/NaohikoMuramatsu2025) | GitHubプロフィールページ。スキルと実績を掲載。 |
+
 
 ---
 
