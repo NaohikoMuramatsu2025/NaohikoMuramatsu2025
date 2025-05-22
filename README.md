@@ -59,6 +59,7 @@
 |-------------|------|
 | [nara-land-classifier](https://github.com/NaohikoMuramatsu2025/nara-land-classifier) | 奈良県データを使った土地分類AIモデル。 |
 | [auto-geomoku-classifier](https://github.com/NaohikoMuramatsu2025/auto-geomoku-classifier) | 自動分類による空間格子処理AIツール。 |
+| [nara-auto-chimoku-classifier](https://github.com/NaohikoMuramatsu2025/nara-auto-chimoku-classifier) | 奈良市の筆界をもとに地目を推定しGeoJSONで出力する分類ツール |
 
 ### 🏷️ 住所処理・ジオコーディング
 
